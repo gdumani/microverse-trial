@@ -1,4 +1,22 @@
-body
-{text-align: center;
-font-family: sans-serif;
+body{
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: lightgrey;
+}
+#image{
+    max-width: 50%;
+}
+#title{
+    color:green;
+}
+#img-caption{
+    font-weight:bold ;
+}
+#tribute-info{
+    text-align: justify;
+    font-size: x-large;
+ 
+    
 }
